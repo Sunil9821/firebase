@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "myfirebase-a6556"
+  },
+  "targets": {
+    "myfirebase-a6556": {
+      "hosting": {
+        "test": [
+          "myfirebase-a6556"
+        ]
+      }
+    }
+  }
+}
